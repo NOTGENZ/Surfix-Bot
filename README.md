@@ -55,7 +55,10 @@
 📂 **[View Source Code on GitHub](https://github.com/NOTGENZ/Surfix-Bot/blob/main/Famous-code)** *(famous codes)*  
 ---
 ## 💡 **Contribute to Surfix**
-👨‍💻 **Want to improve Surfix?** Fork the repository & submit pull requests!  
-🔧 **Found a bug?** Report it on our support server.  
+👨‍💻 **Want to improve Surfix?**
+Join our Discord Support server and dm exeboii. 
+
+🔧 **Found a bug?**
+Report it on our support server.  
 
 🚀 **Experience the best with Surfix today!** 🔥  
