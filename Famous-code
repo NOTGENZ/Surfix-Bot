@@ -34,3 +34,29 @@ $addButton[yes;https://id.wikipedia.org/wiki/$replaceText[$message; ;_;-1];Wikip
 $addButton[yes;https://www.google.com/search?q=$message[1]+$message[2]+$message[3]+$message[4]+$message[5]+$message[6]+$message[7]+$message[8]+$message[9]+$message[10];Google | Search engine;link;no;🔎]
 $addButton[yes;https://www.bing.com/search?q=$message[1]+$message[2]+$message[3]+$message[4]+$message[5]+$message[6]+$message[7]+$message[8]+$message[9]+$message[10];Bing | Web search;link;no;📌]
 $addButton[yes;https://www.youtube.com/search?q=$message[1]+$message[2]+$message[3]+$message[4]+$message[5]+$message[6]+$message[7]+$message[8]+$message[9]+$message[10];Youtube | Video search;link;no;📽]
+**S!say**
+$nomention
+$message
+**S!vote**
+$nomention
+$title[Vote for Surfix]
+$description[**Please Support** __Surfix__ **By Voting us.
+VOTING LINK :** https://discordbotlist.com/bots/surfix/upvote]
+$footer[Vote me ✨]
+$color[23ffab]
+**S!userinfo**
+$nomention
+$botTyping
+$title[**Userinfo**]
+$argsCheck[<1;**Bitte tagge einen User**]
+$color[#2effc7]
+$userInfo[**Username = {username}
+
+Discriminator = {discriminator}
+
+ID = {ID}
+
+Bot? = {BOT}
+**]
+$footer[Never share your personal information 🔒]
+$footerIcon[https://i.postimg.cc/QCqh9NFL/2592317.png]
