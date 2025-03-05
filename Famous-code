@@ -1,0 +1,36 @@
+**S!textimg** 
+$nomention
+$deletecommand
+$color[fffff]
+$title[]
+$description[]
+$image[https://flamingtext.com/net-fu/proxy_form.cgi?script=tagline-logo&text=$replaceText[$message; ;+;-1]&_loc=generate&imageoutput=true]
+$footer[Requested by $username#$discriminator[$authorID]]
+**S!memcount**
+$nomention
+$title[**Members**]
+$serverInfo[
+``$membersCount``
+]
+$footer[Executed Cmd By $username]
+$color[$random[9;999999]]
+$deletecommand
+$deleteIn[20s]
+$addTimestamp
+$botTyping
+**S!searcher**
+$nomention
+$title[Searching.... 🔎]
+$description[$username Requesting  : 
+$message
+
+-Search : $message
+-Author : $username]
+$footer[requested by : $username]
+$footerIcon[$authorAvatar]
+$color[#5ce6c8]
+$addTimestamp
+$addButton[yes;https://id.wikipedia.org/wiki/$replaceText[$message; ;_;-1];Wikipedia | Article Search;link;no;📖]
+$addButton[yes;https://www.google.com/search?q=$message[1]+$message[2]+$message[3]+$message[4]+$message[5]+$message[6]+$message[7]+$message[8]+$message[9]+$message[10];Google | Search engine;link;no;🔎]
+$addButton[yes;https://www.bing.com/search?q=$message[1]+$message[2]+$message[3]+$message[4]+$message[5]+$message[6]+$message[7]+$message[8]+$message[9]+$message[10];Bing | Web search;link;no;📌]
+$addButton[yes;https://www.youtube.com/search?q=$message[1]+$message[2]+$message[3]+$message[4]+$message[5]+$message[6]+$message[7]+$message[8]+$message[9]+$message[10];Youtube | Video search;link;no;📽]
