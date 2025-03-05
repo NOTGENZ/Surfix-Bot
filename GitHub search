@@ -1,0 +1,10 @@
+$nomention
+$deletecommand
+$color[#ffffff]
+$authorIcon[https://i.postimg.cc/5tNmsT11/download.jpg]
+$author[ Github Search]
+$description[**Searching Github.. 🔎 Here is your request : **  https://github.com/search?q=$message
+Search : $message
+Author : $username]
+
+$randomText[ Here is your request; anything else?; Bro I only give you link :)]
