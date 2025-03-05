@@ -44,8 +44,7 @@
 ## 🌐 **Get Started**
 🔗 **[Add Surfix to your server](https://discord.com/oauth2/authorize?client_id=1340719763562823690)**  
 💬 **[Join the Support Server](https://discord.gg/D88QhgsADV)**  
-📂 **[View Source Code on GitHub](#)** *(Coming Soon!)*  
-
+📂 **[View Source Code on GitHub](https://github.com/NOTGENZ/Surfix-Bot/blob/main/Famous-code)** *(famous codes)*  
 ---
 ## 💡 **Contribute to Surfix**
 👨‍💻 **Want to improve Surfix?** Fork the repository & submit pull requests!  
