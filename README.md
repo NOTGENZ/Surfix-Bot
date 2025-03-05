@@ -1,5 +1,8 @@
 # 🚀 **Surfix - The Open-Source Discord Bot**  
 💡 **Tired of traditional bots?** Experience **Surfix**, a powerful, open-source bot built with BD script!  
+⚔️**Vote Surfix**
+[Click here](https://discordbotlist.com/bots/surfix/upvote)
+
 
 🌟 **Why Surfix?**  
 ✅ **Easy-to-use custom prefix: `S!`**  
