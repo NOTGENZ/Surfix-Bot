@@ -46,8 +46,11 @@
 - 💙 `S!about` → Learn more about Surfix  
 - 📩 `S!support` → Join the support server  
 - 🗳️ `S!vote` → Vote for Surfix  
-- 🛠️ `S!github (repository)` → View GitHub repository  
-
+- 🛠️ `S!github (repository)` → View GitHub repository
+>    🎆 **Latest Commands** 
+- ⛔ `S!delchannel <name> without (#)`
+- ✅ `S!addchannel <name> <textorvoice> <category id>`
+- 😺 `S!emojiadd <emoji>`
 ---
 ## 🌐 **Get Started**
 🔗 **[Add Surfix to your server](https://discord.com/oauth2/authorize?client_id=1340719763562823690)**  
