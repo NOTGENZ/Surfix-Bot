@@ -51,6 +51,7 @@
 - ⛔ `S!delchannel <name> without (#)`
 - ✅ `S!addchannel <name> <textorvoice> <category id>`
 - 😺 `S!emojiadd <emoji>`
+- **Many Commands not listed here invite bot and use** `S!help`
 ---
 ## 🌐 **Get Started**
 🔗 **[Add Surfix to your server](https://discord.com/oauth2/authorize?client_id=1340719763562823690)**  
